@@ -1,4 +1,4 @@
-## About Laravel
+## About test App
 
 Test app for fetching articles from tes [API](https://api-server-test-task.thinkdemo.co.uk/)
 
